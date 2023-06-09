@@ -22,7 +22,7 @@ public class Main {
 
         p.product(5,5);
         p.product(5,5,5);
-        p.product(1.0,1.0);
+        double product = p.product(1.0,1.0);
     }
 
 }
